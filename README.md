@@ -1,5 +1,7 @@
 # nuxt_typescript_environment_setup
 
+詳細な記事: [【初心者向け】 NuxtとTypeScriptで書くための環境を構築する方法](https://it-web-life.com/nuxt_typescript_environment_setup/)
+
 ## Build Setup
 
 ```bash
